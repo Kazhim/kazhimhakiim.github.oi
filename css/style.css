@@ -1,0 +1,37 @@
+body{
+	background-image: url(../img/gambar.jpg);  
+	
+	
+}
+
+li{
+	display: inline-block;
+	color: rgb(235, 221, 221);
+	margin-top: 50px;
+	padding: 10px;
+	margin-left: 20px;
+	float: right;
+	margin-right: 50px;
+}
+
+hl{
+	position: relative;
+	color: rgb(248, 241, 241);
+	font-weight: bold;
+	left: 330px;
+	top: 320px;
+	font-size: 40px;
+}
+
+.button{
+	margin-left: 420px;
+	margin-top: 380px;
+}
+
+.button a{
+	font-weight: bold;
+	text-decoration: none;
+	color: white;
+	margin-left: 30px;
+	border: 1px solid white;
+}
